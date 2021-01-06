@@ -1,0 +1,5 @@
+name: Morph
+version: 1.0
+main: de.crowraw.morph.Morph
+api-version: 1.16
+authors: [ Crowraw ]
